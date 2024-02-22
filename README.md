@@ -22,3 +22,7 @@
 8. Self-Organizing Maps (SOM)
 9. Autoencoders
 10. Generative Adversarial Networks (GANs)
+
+
+# add git branch
+code of komal
